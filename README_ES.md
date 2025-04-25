@@ -39,6 +39,7 @@ Copia el contenido de `DOCS/en/` y `DOCS/es/` en el repositorio Wiki de GitHub, 
 Los archivos generados incluyen:
 - `Home.md`, `Home_ES.md`
 - `TOC.md`, `TOC_ES.md`
+- `_Sidebar.md`, `_Sidebar_ES.md`
 - Un archivo Markdown por cada clase o enumeración (con ejemplos y comentarios XML)
 
 ---

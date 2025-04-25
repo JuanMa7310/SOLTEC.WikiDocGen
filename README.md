@@ -39,6 +39,7 @@ Copy the contents of `DOCS/en/` and `DOCS/es/` to your GitHub Wiki repository vi
 Generated files include:
 - `Home.md`, `Home_ES.md`
 - `TOC.md`, `TOC_ES.md`
+- `_Sidebar.md`, `_Sidebar_ES.md`
 - One Markdown file per class and enum (with examples and XML comments)
 
 ---
